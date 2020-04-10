@@ -10,7 +10,7 @@ In this tutorial, you will learn:
 1. clean/manipulate the data
 1. map out the data
 
-To download QGIS, please visit http://qgis.com - qgis.com
+To download QGIS, please visit [QGIS.com] (http://qgis.com)
 
 ##How to find Covid-19 data
 
