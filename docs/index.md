@@ -1,7 +1,7 @@
 ---
 title: Mapping Covid-19 data with QGIS 3.x
 ---
-see also [Mapping Covid-19 data with ArcGIS Online](http://mdlutoronto.github.io/docs/aol)
+
 
 # Mapping Covid-19 data with QGIS
 
@@ -17,3 +17,4 @@ To download QGIS, please visit [QGIS.com](http://qgis.com)
 
 Depending on what part of the world you want to map out will determine at what level you will be able to map out
 
+see also [Mapping Covid-19 data with ArcGIS Online](http://mdlutoronto.github.io/docs/aol)
