@@ -11,3 +11,7 @@ In this tutorial, you will learn:
 1. map out the data
 
 To download QGIS, please visit http://qgis.com - qgis.com
+
+##How to find Covid-19 data
+
+Depending on what part of the world you want to map out will determine at what level you will be able to map out
