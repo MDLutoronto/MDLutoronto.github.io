@@ -1,7 +1,8 @@
 ---
 title: Mapping Covid-19 data with QGIS 3.x
 ---
-### see also [https://mdlutoronto.github.io/docs/aol](Mapping Covid-19 data with ArcGIS Online)
+### see also 
+[https://mdlutoronto.github.io/docs/aol](Mapping Covid-19 data with ArcGIS Online)
 
 # Mapping Covid-19 data with QGIS
 
