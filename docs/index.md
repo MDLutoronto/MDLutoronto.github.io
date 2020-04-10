@@ -1,3 +1,3 @@
 ---
-title: <Mapping Covid-19 data with QGIS>
+title: <Mapping Covid-19 data with QGIS 3.x>
 ---
