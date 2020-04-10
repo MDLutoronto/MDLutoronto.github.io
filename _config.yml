@@ -1,1 +1,11 @@
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled:true
+  collections: true
+include:
+  aol.md
+  
+title: Mapping Covid-19 with ArcGIS Online
+description: mapping out covid-19 for various geographies
