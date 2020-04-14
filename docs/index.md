@@ -2,6 +2,7 @@
 title: Mapping Covid-19 data with QGIS 3.x
 ---
 
+
 # Mapping Covid-19 data with QGIS
 
 In this tutorial, you will learn:
@@ -10,8 +11,10 @@ In this tutorial, you will learn:
 1. clean/manipulate the data
 1. map out the data
 
-To download QGIS, please visit http://qgis.com - qgis.com
+To download QGIS, please visit [QGIS.com](http://qgis.com)
 
-##How to find Covid-19 data
+## How to find Covid-19 data
 
 Depending on what part of the world you want to map out will determine at what level you will be able to map out
+
+see also [Mapping Covid-19 data with ArcGIS Online](aol)
