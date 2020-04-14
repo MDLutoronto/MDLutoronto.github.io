@@ -3,8 +3,8 @@ title: Mapping Covid-19 data with QGIS 3.x
 ---
 ## Mapping Covid-19 Data Workshops
 
-[Mapping Covid-19 data with QGIS](QGIS)
-[Mapping Covid-19 data with ArcGIS Online](aol)
+### [Mapping Covid-19 data with QGIS](QGIS)
+### [Mapping Covid-19 data with ArcGIS Online](aol)
 
 ## How to find Covid-19 data
 
