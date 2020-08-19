@@ -55,7 +55,7 @@ title: CHL543 (Erjia Ge)
 			- textual information
 	- [Module 3](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/07%20-%20ArcGIS%20Pro%20Module%203%20-%20Loading%20and%20Manipulating%20Data%20(2020).pdf)
 		- Create an ArcGIS Pro Project
-		- Adding data
+		- Adding data (vector, raster and attribute)
 		- Map Projections
 		- Querying and Symbolizing Attribute Data
 		- Subsetting Data
@@ -71,8 +71,8 @@ title: CHL543 (Erjia Ge)
 
 [Zoom Link](https://us02web.zoom.us/j/85809149821?pwd=aEtSQnMwaDR3bFBJeHpiVWNGYUxRQT09)
 (A password will be provided to your instructor - **note that all sessions will be recorded**)
-
-### Raster GIS
+1. ### Basic Geospatial Analytics
+1. ### Raster GIS Analytics
 
 ---
 
