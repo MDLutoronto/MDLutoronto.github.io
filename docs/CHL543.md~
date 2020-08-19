@@ -13,14 +13,14 @@ title: CHL543 (Erjia Ge)
     * Instructions will be sent to you for download and installation when requesting the license
 1. Setup and ArcGIS Online account [https://mdl.library.utoronto.ca/technology/tutorials/logging-arcgis-online](https://mdl.library.utoronto.ca/technology/tutorials/logging-arcgis-online)
 1. Please note that ArcGIS and all Esri products run on the Windows operating system only. If you have a Mac and wish to run ArcGIS Pro on you computer, you will need to obtain a copy of Windows and run this operating system on a virtual machine on your computer. Emulating software to run Windows on your Mac include 
-    * [https://www.oracle.com/virtualization/virtualbox/](VM Virtual Box) 
+    * [https://www.oracle.com/virtualization/virtualbox/](Virtual Box)
 [free]
     * [https://support.apple.com/en-ca/boot-camp](BootCamp) [free and pre-loaded on macs] [dual boot - which means you can't run both mac and windows operating systems at once]
-    * [Parallels](https://www.parallels.com/) [~$80.00, but worth the money. It allows for running windows and mac operating systems at the same time and exchange files and even run windows programs in Mac look (not by default).
+    * [https://www.parallels.com/](Parallels) [~$80.00, but worth the money. It allows for running windows and mac operating systems at the same time and exchange files and even run windows programs in Mac look (not by default).
 
 ### A note on QGIS
 
-* [http://qgis.com](QGIS) is a powerful, free and open source full-featured GIS software package. It runs on Windows, Mac and Linux. 
+* [QGIS](http://qgis.com) is a powerful, free and open source full-featured GIS software package. It runs on Windows, Mac and Linux. 
 
 ---
 
