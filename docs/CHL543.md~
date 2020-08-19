@@ -11,7 +11,7 @@ title: CHL543 (Erjia Ge)
 
 1. Request an esri license for ArcGIS Pro [https://mdl.library.utoronto.ca/technology/gis-software/esri-software-request](https://mdl.library.utoronto.ca/technology/gis-software/esri-software-request)
     * Instructions will be sent to you for download and installation when requesting the license
-1. Setup and ArcGIS Online account [https://mdl.library.utoronto.ca/technology/tutorials/logging-arcgis-online](https://mdl.library.utoronto.ca/technology/tutorials/logging-arcgis-online)
+1. Setup an ArcGIS Online account [https://mdl.library.utoronto.ca/technology/tutorials/logging-arcgis-online](https://mdl.library.utoronto.ca/technology/tutorials/logging-arcgis-online)
 1. Please note that ArcGIS and all Esri products run on the Windows operating system only. If you have a Mac and wish to run ArcGIS Pro on you computer, you will need to obtain a copy of Windows and run this operating system on a virtual machine on your computer. Emulating software to run Windows on your Mac include 
     * [Virtual Box](https://www.oracle.com/virtualization/virtualbox/) [free]
     * [BootCamp](https://support.apple.com/en-ca/boot-camp) [free and pre-loaded on macs] [dual boot - which means you can't run both mac and windows operating systems at once]
@@ -45,14 +45,13 @@ title: CHL543 (Erjia Ge)
 	 	- The basics
 		- Loading and Manipulating data
 		- Exporting a Basic Map
-	- [Module 2](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/06%20-%20ArcGIS%20Pro%20Module%202%20-%20Making%20a%20Map%20(2020).pdf)
-		- Making a printable map that includes:
-			- a legend
-			- an inset map
-			- a scale bar
-			- a title
-			- a north arrow
-			- textual information
+	- [Module 2](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/06%20-%20ArcGIS%20Pro%20Module%202%20-%20Making%20a%20Map%20(2020).pdf) Making a printable map that includes:
+		- a legend
+		- an inset map
+		- a scale bar
+		- a title
+		- a north arrow
+		- textual information
 	- [Module 3](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/07%20-%20ArcGIS%20Pro%20Module%203%20-%20Loading%20and%20Manipulating%20Data%20(2020).pdf)
 		- Create an ArcGIS Pro Project
 		- Adding data (vector, raster and attribute)
