@@ -41,10 +41,18 @@ title: CHL543 (Erjia Ge)
 
 	- [An Overview](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/04%20-%20ArcGIS%20Pro%20Modules%20Overview%20(2020).pdf)
 	- [Downloading Data for this Workshop](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/data.zip)
-	- The basics
-	- Loading datak
-	- Making a map
-	- Joining data
+	- [Module 1](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/05%20-%20ArcGIS%20pro%20Module%201%20-%20A%20Tour%20of%20ArcGIS%20Pro%20(2020).pdf)
+	 	- The basics
+		- Loading and Manipulating data
+		- Exporting a Basic Map
+	- [Module 2](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/06%20-%20ArcGIS%20Pro%20Module%202%20-%20Making%20a%20Map%20(2020).pdf)
+		- Making a printable map that includes:
+			- a legend
+			- an inset map
+			- a scale bar
+			- a title
+			- a north arrow
+			- textual information
 
 ---
 
