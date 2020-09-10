@@ -90,16 +90,16 @@ title: CHL543 (Erjia Ge)
 		- Site Selection
 1. ### Raster GIS Analytics
 	- [Module 5 - Raster Spatial Analysis](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/09%20-%20ArcGIS%20Pro%20Module%205%20-%20Working%20with%20Raster%20Data%20(2020).pdf)
-	- [Download Satellite Imagery Data](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/landsat8.tar)
-	- DEM And Land Classification Data Basics
-	- Classifying Elevations
-	- Generating Contour Lines
-	- Recalculating Values
-	- Normalized Difference Vegetation Index
-	- Extracting Values
-	- Density Analysis (Spatial Analyst ArcGIS Pro Extension)
-	- Snow's Cholera Data of London
-	- Toronto Homicide data
+		- [Download Satellite Imagery Data](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/landsat8.tar)
+		- DEM And Land Classification Data Basics
+		- Classifying Elevations
+		- Generating Contour Lines
+		- Recalculating Values
+		- Normalized Difference Vegetation Index
+		- Extracting Values
+		- Density Analysis (Spatial Analyst ArcGIS Pro Extension)
+		- Historical Cholera Data of London (John Snow data)
+		- Toronto Homicide data
 
 	---
 
