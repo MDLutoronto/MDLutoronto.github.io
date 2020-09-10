@@ -28,7 +28,7 @@ title: CHL543 (Erjia Ge)
 (A password will be provided to your instructor - **note that all sessions will be recorded**)
 
 
-	1. ### Introduction
+1. ### Introduction
 
 	- [An Introduction to the MDL](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/04%20MDL%20(2020).pdf)
 	- [What is GIS?](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/01%20-%20What%20is%20GIS_%20(2020).pdf)
@@ -53,7 +53,7 @@ title: CHL543 (Erjia Ge)
 	- north arrow
 	- textual information
 	- [Module 3 Manipulating Data](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/07%20-%20ArcGIS%20Pro%20Module%203%20-%20Loading%20and%20Manipulating%20Data%20(2020).pdf)
-- Adding data (vector, raster and attribute)
+1. Adding data (vector, raster and attribute)
 	- Map Projections
 	- Querying and Symbolizing Attribute Data
 	- Subsetting Data
@@ -70,7 +70,7 @@ title: CHL543 (Erjia Ge)
 	[Zoom Link](https://us02web.zoom.us/j/85809149821?pwd=aEtSQnMwaDR3bFBJeHpiVWNGYUxRQT09)
 (A password will be provided to your instructor - **note that all sessions will be recorded**)
 
-	1. ### Basic Geospatial Analytics
+1. ### Basic Geospatial Analytics
 	- [Module 4 - An Introduction to Spatial Analysis](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/08%20-%20ArcGIS%20Pro%20Module%204%20-%20Analysis%20Tools%20(2020).pdf)
 	- Calculating Distances
 - Joins (Spatial and Attribute)
@@ -88,7 +88,7 @@ title: CHL543 (Erjia Ge)
 	- by Location
 	- by Attributes
 	- Site Selection
-	1. ### Raster GIS Analytics
+1. ### Raster GIS Analytics
 	- [Module 5 - Raster Spatial Analysis](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/09%20-%20ArcGIS%20Pro%20Module%205%20-%20Working%20with%20Raster%20Data%20(2020).pdf)
 	- [Download Satellite Imagery Data](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/landsat8.)
 	- DEM And Land Classification Data Basics
@@ -110,14 +110,14 @@ title: CHL543 (Erjia Ge)
 	[Zoom Link](https://us02web.zoom.us/j/85809149821?pwd=aEtSQnMwaDR3bFBJeHpiVWNGYUxRQT09)
 (A password will be provided to your instructor - **note that all sessions will be recorded**)
 
-	1. ### Finding Health Data
+1. ### Finding Health Data
 	- [Module 6 - Locating Relevant Health Data](https://maps.library.utoronto.ca/workshops/FindingGeoData/FindingGeohealthData2020.pdf)
 	- US
 	- Canada
 	- Ontario
 	- Toronto
 
-	1. ### Mapping Health Data
+1. ### Mapping Health Data
 	- [Module 7 - Mapping Health Data](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/10%20-%20ArcGIS%20Pro%20Module%207%20%20-%20Mapping%20Toronto%20Health%20Data%20(covid-19).pdf) 
 	- Mapping Toronto Health Data
 	- Mapping Covid-19 Data
@@ -128,4 +128,4 @@ title: CHL543 (Erjia Ge)
 	- Toronto
 	---
 
-	Last major update: August 25, 2020
+	Last major update: September 10, 2020
