@@ -60,7 +60,18 @@ title: CHL543 (Erjia Ge)
 [Zoom Link](https://us02web.zoom.us/j/85809149821?pwd=aEtSQnMwaDR3bFBJeHpiVWNGYUxRQT09)
 (A password will be provided to your instructor - **note that all sessions will be recorded**)
 
+1. ### Continued Basics from September 18, 2020
 
+	- [Module 3 Manipulating Data](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/07%20-%20ArcGIS%20Pro%20Module%203%20-%20Loading%20and%20Manipulating%20Data%20(2020).pdf)
+		- Adding data (vector, raster and attribute)
+		- Map Projections
+		- Querying and Symbolizing Attribute Data
+		- Subsetting Data
+		- Labelling Data
+		- Formating Layer Files
+		- Grouping Data
+		- Mapping Services
+		- Geocoding
 1. ### Basic Geospatial Analytics
 	- [Module 3 Manipulating Data](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/07%20-%20ArcGIS%20Pro%20Module%203%20-%20Loading%20and%20Manipulating%20Data%20(2020).pdf)
 		- Adding data (vector, raster and attribute)
@@ -71,7 +82,7 @@ title: CHL543 (Erjia Ge)
 		- Formating Layer Files
 		- Grouping Data
 		- Mapping Services
-		- Geocodin
+		- Geocoding 
 	- [Module 4 - An Introduction to Spatial Analysis](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/08%20-%20ArcGIS%20Pro%20Module%204%20-%20Analysis%20Tools%20(2020).pdf)
 		- Calculating Distances
 		- Joins (Spatial and Attribute)
