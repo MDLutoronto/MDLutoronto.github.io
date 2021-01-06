@@ -3,7 +3,9 @@
 * Main website: [https://uoft.me/countymaps](https://uoft.me/countymaps)
 * 	demo video:[https://maps.library.utoronto.ca/countymap/](https://maps.library.utoronto.ca/countymap/index.html) 
 * Data entry website: [https://uoft.me/crowd](https://uoft.me/crowd)
-*	instructional video:
+	* [instructional video 1](https://maps.library.utoronto.ca/countymap/Crowdsourcing/)
+	* instructional video 2
+
 * A background on the project and Ontario Historical County Maps [https://www.youtube.com/watch?v=BBst3aqtOpQ](https://www.youtube.com/watch?v=BBst3aqtOpQ)
 
 
