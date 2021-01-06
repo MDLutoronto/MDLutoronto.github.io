@@ -1,4 +1,4 @@
-## Ontario Historical County Maps Project Instructions
+## Ontario Historical County Maps Project Instruction Materials
 
 * Main website: [https://uoft.me/countymaps](https://uoft.me/countymaps)
 * 	demo video:[https://maps.library.utoronto.ca/countymap/](https://maps.library.utoronto.ca/countymap/index.html) 
