@@ -25,8 +25,7 @@ title: ArcGIS Pro Workshop outline and requirements
 
 # *Session 1*
 [Zoom Link]()
-(A password will be provided to your instructor - **note that all sessions will be recorded**)
-
+(A password will be provided to you and please note that all sessions will be recorded)
 
 1. ### Introduction
 
@@ -113,7 +112,7 @@ title: ArcGIS Pro Workshop outline and requirements
 ### Finding and Mapping Health Data
 
 [Zoom Link](https://us02web.zoom.us/j/85809149821?pwd=aEtSQnMwaDR3bFBJeHpiVWNGYUxRQT09)
-(A password will be provided to your instructor - **note that all sessions will be recorded**)
+(A password will be provided to you and please note that all sessions will be recorded)
 
 1. ### Finding Health Data
 	- [Module 6 - Locating Relevant Health Data](https://maps.library.utoronto.ca/workshops/FindingGeoData/FindingGeohealthData2020.pdf)
