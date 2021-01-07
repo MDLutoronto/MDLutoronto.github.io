@@ -109,13 +109,13 @@ title: ArcGIS Pro Workshop outline and requirements
 
 # *Session 3*
 
-### Finding and Mapping Health Data
+### Finding and Mapping Data
 
 [Zoom Link](https://us02web.zoom.us/j/85809149821?pwd=aEtSQnMwaDR3bFBJeHpiVWNGYUxRQT09)
 (A password will be provided to you and please note that all sessions will be recorded)
 
-1. ### Finding Health Data
-	- [Module 6 - Locating Relevant Health Data](https://maps.library.utoronto.ca/workshops/FindingGeoData/FindingGeohealthData2020.pdf)
+1. ### Finding Data
+	- [Module 6 - Locating Relevant Data](https://maps.library.utoronto.ca/workshops/FindingGeoData/FindingGeohealthData2020.pdf)
 		- US
 		- Canada 
 		  - Ontario

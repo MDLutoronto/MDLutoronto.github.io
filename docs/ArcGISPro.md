@@ -59,7 +59,7 @@ title: ArcGIS Pro Workshop outline and requirements
 [Zoom Link](https://us02web.zoom.us/j/85809149821?pwd=aEtSQnMwaDR3bFBJeHpiVWNGYUxRQT09)
 (A password will be provided to your instructor - **note that all sessions will be recorded**)
 
-1. ### Continued Basics from September 18, 2020
+1. ### Continued Basics from Previous Session 
 
 	- [Module 3 Manipulating Data](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/07%20-%20ArcGIS%20Pro%20Module%203%20-%20Loading%20and%20Manipulating%20Data%20(2020).pdf)
 		- Adding data (vector, raster and attribute)
