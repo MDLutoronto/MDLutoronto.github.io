@@ -1,0 +1,137 @@
+---
+title: ArcGIS Pro Workshop outline and requirements 
+---
+
+## ArcGIS Pro Workshop outline and requirements 
+
+
+## Pre-Workshop Preparation
+
+### ArcGIS Pro Installation
+
+1. Request an esri license for ArcGIS Pro [https://mdl.library.utoronto.ca/technology/gis-software/esri-software-request](https://mdl.library.utoronto.ca/technology/gis-software/esri-software-request)
+* Instructions will be sent to you for download and installation when requesting the license
+1. Setup an ArcGIS Online account [https://mdl.library.utoronto.ca/technology/tutorials/logging-arcgis-online](https://mdl.library.utoronto.ca/technology/tutorials/logging-arcgis-online)
+1. Please note that ArcGIS and all Esri products run on the Windows operating system only. If you have a Mac and wish to run ArcGIS Pro on you computer, you will need to obtain a copy of Windows and run this operating system on a virtual machine on your computer. Emulating software to run Windows on your Mac include 
+* [Virtual Box](https://www.oracle.com/virtualization/virtualbox/) [free]
+* [BootCamp](https://support.apple.com/en-ca/boot-camp) [free and pre-loaded on macs] [dual boot - which means you can't run both mac and windows operating systems at once]
+* [Parallels](https://www.parallels.com/) [~$80.00, but worth the money. It allows for running windows and mac operating systems at the same time and exchange files and even run windows programs in Mac look (not by default).
+
+#### A note on QGIS
+
+[QGIS](http://qgis.com) is a powerful, free and open source full-featured GIS software package. It runs on Windows, Mac and Linux. 
+
+---
+
+# * Connection Information *
+[Zoom Link]()
+(A password will be provided to your instructor - **note that all sessions will be recorded**)
+
+
+1. ### Introduction
+
+	- [An Introduction to the MDL](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/04%20MDL%20(2020).pdf)
+	- [What is GIS?](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/01%20-%20What%20is%20GIS_%20(2020).pdf)
+	- [GIS data](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/02%20-%20GIS%20Data%20(2020).pdf)
+		- Vector vs. Raster
+		- Attribute Data
+	- [GIS Software](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/03%20-%20GIS%20Software%20(2020).pdf)
+
+1. ### Hands On Introduction to ArcGIS Pro
+
+	- [An Overview](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/04%20-%20ArcGIS%20Pro%20Modules%20Overview%20(2020).pdf)
+	- [Download Data for this Workshop](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/ArcGISProWorkshop2020.zip)
+	- [Module 1 - Getting Started with ArcGIS Pro](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/05%20-%20ArcGIS%20pro%20Module%201%20-%20A%20Tour%20of%20ArcGIS%20Pro%20(2020).pdf)
+		- The basics
+		- Loading and Manipulating data
+		- Exporting a Basic Map
+	- [Module 2 - Making a Printable Map](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/06%20-%20ArcGIS%20Pro%20Module%202%20-%20Making%20a%20Map%20(2020).pdf) 
+		- legends
+		- inset map
+		- scale bar
+		- title
+		- north arrow
+		- textual information
+
+---
+
+# *September 25, 2020*
+
+[Zoom Link](https://us02web.zoom.us/j/85809149821?pwd=aEtSQnMwaDR3bFBJeHpiVWNGYUxRQT09)
+(A password will be provided to your instructor - **note that all sessions will be recorded**)
+
+1. ### Continued Basics from September 18, 2020
+
+	- [Module 3 Manipulating Data](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/07%20-%20ArcGIS%20Pro%20Module%203%20-%20Loading%20and%20Manipulating%20Data%20(2020).pdf)
+		- Adding data (vector, raster and attribute)
+		- Map Projections
+		- Querying and Symbolizing Attribute Data
+		- Subsetting Data
+		- Labelling Data
+		- Formating Layer Files
+		- Grouping Data
+		- Mapping Services
+		- Geocoding
+
+
+1. ### Basic Geospatial Analytics
+
+	- [Module 4 - An Introduction to Spatial Analysis](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/08%20-%20ArcGIS%20Pro%20Module%204%20-%20Analysis%20Tools%20(2020).pdf)
+		- Calculating Distances
+		- Joins (Spatial and Attribute)
+		- Summarizing Statistics
+		- Charts
+		- Advanced Mapping
+		- Choropleth Mapping
+		- Graduated Symbols
+		- Proportional Symbols
+		- Dot Density
+		- Buffering
+		- Erasing
+		- Clipping
+		- Selection 
+			- by Location
+			- by Attributes
+		- Site Selection
+1. ### Raster GIS Analytics
+	- [Module 5 - Raster Spatial Analysis](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/09%20-%20ArcGIS%20Pro%20Module%205%20-%20Working%20with%20Raster%20Data%20(2020).pdf)
+		- [Download Satellite Imagery Data](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/landsat8.tar)
+		- DEM And Land Classification Data Basics
+		- Classifying Elevations
+		- Generating Contour Lines
+		- Recalculating Values
+		- Normalized Difference Vegetation Index
+		- Extracting Values
+		- Density Analysis (Spatial Analyst ArcGIS Pro Extension)
+		- Historical Cholera Data of London (John Snow data)
+		- Toronto Homicide data
+
+	---
+
+# *October 2, 2020*
+
+### Finding and Mapping Health Data
+
+[Zoom Link](https://us02web.zoom.us/j/85809149821?pwd=aEtSQnMwaDR3bFBJeHpiVWNGYUxRQT09)
+(A password will be provided to your instructor - **note that all sessions will be recorded**)
+
+1. ### Finding Health Data
+	- [Module 6 - Locating Relevant Health Data](https://maps.library.utoronto.ca/workshops/FindingGeoData/FindingGeohealthData2020.pdf)
+		- US
+		- Canada 
+		  - Ontario
+		  - Toronto
+
+1. ### Mapping Health Data
+	- [Module 7 - Mapping Health Data](https://maps.library.utoronto.ca/workshops/ArcGISProWorkshop/2020/10%20-%20ArcGIS%20Pro%20Module%207%20%20-%20Mapping%20Toronto%20Health%20Data%20(covid-19).pdf) 
+		- Mapping Toronto Health Data
+		- Mapping Covid-19 Data
+		  - World 
+		  - North America
+		    - US
+		    - Canada
+		      - Toronto
+
+---
+
+Last major update: September 24, 2020
