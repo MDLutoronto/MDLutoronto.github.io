@@ -1,0 +1,5 @@
+# ArcGIS StoryMaps Workshop
+
+1. An introduction to StoryMaps. Video demonstrating four different types of StoryMaps
+
+1. Download the following [data](http://maps.library.utoronto.ca/workshops/StoryMaps/StoryMaps2020.zip)
