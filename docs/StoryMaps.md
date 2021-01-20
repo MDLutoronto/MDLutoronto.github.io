@@ -7,7 +7,7 @@ To follow along with the tutorial videos, please download the following [data](h
 
 ### Videos
 
-1. [Intro to StoryMaps](https://maps.library.utoronto.ca/workshops/StoryMaps/2021/01Intro) - 13:38
+1. [Introduction to StoryMaps](https://maps.library.utoronto.ca/workshops/StoryMaps/2021/01Intro) - 13:38
 1. [Explorer StoryMap Template tutorial](https://maps.library.utoronto.ca/workshops/StoryMaps/2021/02Explorer/) - 25:26
 1. [Guided Tour StoryMap Template tutorial](https://maps.library.utoronto.ca/workshops/StoryMaps/2021/03GuidedTour/) - - 26:29
 1. [Sidecar StoryMap Template tutorial](https://maps.library.utoronto.ca/workshops/StoryMaps/2021/04SideCar/) - 8:17
