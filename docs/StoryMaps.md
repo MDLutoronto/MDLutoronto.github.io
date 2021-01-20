@@ -20,3 +20,5 @@ Other template workshop tutorial material can be found [here](https://maps.libra
 
 --
 Last updated: January 20, 2021
+
+&copy; Marcel Fortin, University of Toronto
