@@ -14,4 +14,8 @@ To follow along with the tutorial videos, please download the following [data](h
 1. [Scratch StoryMap tutorial](https://maps.library.utoronto.ca/workshops/StoryMaps/2021/05Scratch/) - 19:43
 
 --
+## Older Template 
+Other template workshop tutorial material can be found [here](https://maps.library.utoronto.ca/workshops/StoryMaps/Story%20Maps%20Workshop%202019.pdf)
+
+--
 Last updated: January 20, 2021
