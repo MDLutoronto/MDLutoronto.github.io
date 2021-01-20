@@ -5,7 +5,7 @@ These video tutorials demonstrate four different types of StoryMaps
 
 To follow along with the tutorial videos, please download the following [data](https://maps.library.utoronto.ca/workshops/StoryMaps/2021/StoryMaps2021.zip)
 
-## Videos
+### Videos
 
 1. [Intro to StoryMaps](https://maps.library.utoronto.ca/workshops/StoryMaps/2021/01Intro) - 13:38
 1. [Explorer StoryMap Template tutorial](https://maps.library.utoronto.ca/workshops/StoryMaps/2021/02Explorer/) - 25:26
@@ -14,7 +14,8 @@ To follow along with the tutorial videos, please download the following [data](h
 1. [Scratch StoryMap tutorial](https://maps.library.utoronto.ca/workshops/StoryMaps/2021/05Scratch/) - 19:43
 
 --
-## Older Template 
+## Older Template StoryMap Workshop Material
+
 Other template workshop tutorial material can be found [here](https://maps.library.utoronto.ca/workshops/StoryMaps/Story%20Maps%20Workshop%202019.pdf)
 
 --
