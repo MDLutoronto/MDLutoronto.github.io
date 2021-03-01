@@ -7,6 +7,7 @@
 	* [instructional video 2 - Adding Names](https://maps.library.utoronto.ca/countymap/AddingNames/)
 
 * A background on the project and Ontario Historical County Maps [https://www.youtube.com/watch?v=BBst3aqtOpQ](https://www.youtube.com/watch?v=BBst3aqtOpQ)
+* Early Counties and Districts in Ontario [http://www.archives.gov.on.ca/en/maps/ontario-districts.aspx](http://www.archives.gov.on.ca/en/maps/ontario-districts.aspx)
 
 
 --
