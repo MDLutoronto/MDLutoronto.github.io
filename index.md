@@ -1,6 +1,8 @@
 ---
 title: Mapping Covid-19 data with QGIS 3.x
 ---
+<meta http-equiv="refresh" content="0; url=https://mdlutoronto.github.io/tutorials-search/">
+
 ## Mapping Covid-19 Data Workshops
 
 * [Mapping Covid-19 data with QGIS](docs/QGIS)
